@@ -1,3 +1,1 @@
-# merge-conflict-demo
-merge-conflict-demo
-This is a change in branch-2
+This is a merged change: branch-1 and branch-2
